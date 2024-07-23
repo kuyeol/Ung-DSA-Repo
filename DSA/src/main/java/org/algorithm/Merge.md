@@ -54,8 +54,9 @@ block-beta
 
 
 ```
-Conquer
-- Merge And Sort
+> [!NOTE]
+> Conquer
+> - Merge And Sort
 
 ```mermaid
 block-beta
