@@ -105,6 +105,7 @@ block-beta
  ### The main steps are:
 > [!NOTE]
 > > [!NOTE]
+> >
 > 1. Divide: 
 > > Break the problem into smaller subproblems.
 > 2. Conquer: 
