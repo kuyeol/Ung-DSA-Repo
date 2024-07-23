@@ -112,6 +112,12 @@ block-beta
 >
 > 1. Divide: 
 > > Break the problem into smaller subproblems.
+> >```
+> > public static divide(){
+> >
+> >
+> > }
+> >```
 > > CODE:
 > > divide(){
 > fff
