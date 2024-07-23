@@ -104,11 +104,11 @@ block-beta
 
  ### The main steps are:
 > [!NOTE]
-> > Algorithm : Merge Sort
+>  Algorithm : Merge Sort
 > >
-> >  input: int[]
+>   Input: int[]
 > >  
-> > output: int[]
+>  Output: int[]
 > 
 > 1. Divide: 
 > > Break the problem into smaller subproblems.
