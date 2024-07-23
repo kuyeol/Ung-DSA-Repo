@@ -103,6 +103,7 @@ block-beta
 # Divide and Conquer algorithm?
 
  ### The main steps are:
+> [!TIP]
 > 1. Divide: 
 >> Break the problem into smaller subproblems.
 > 2. Conquer: 
