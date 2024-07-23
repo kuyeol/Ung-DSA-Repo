@@ -111,7 +111,7 @@ block-beta
 >> Merge or combine the solutions of the subproblems to obtain the solution to the original problem.
 
 <details>
-<summary>gdgfd</summary>
+<summary>toKorean</summary>
 ```
 문제 나누기 : 문제를 더 작은 하위 문제로 나눕니다.
 정복 (Conquer) : 하위 문제를 재귀적으로 해결합니다.
