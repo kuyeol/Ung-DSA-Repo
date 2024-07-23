@@ -4,7 +4,7 @@
 
 ---
 
-> [NOTE] 
+> [!NOTE] 
 > Array To Divide
 >  
 
