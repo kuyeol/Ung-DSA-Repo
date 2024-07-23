@@ -106,7 +106,7 @@ block-beta
 
 ---
 
-
+![img.png](img.png)
 
 ## [1] Divide & Conquer
 ## [1] Divide & Conquer
