@@ -112,6 +112,12 @@ block-beta
 >
 > 1. Divide: 
 > > Break the problem into smaller subproblems.
+> > CODE:
+> > divide(){
+> fff
+> 
+> > }
+> 
 > 2. Conquer: 
 > > Solve the subproblems recursively.
 > 3. Combine: 
