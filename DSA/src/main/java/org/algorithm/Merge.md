@@ -110,7 +110,7 @@ block-beta
 > >  
 >  - Output: int[]
 >  >
-> 
+>  >
 > 1. Divide: 
 > > Break the problem into smaller subproblems.
 > 2. Conquer: 
