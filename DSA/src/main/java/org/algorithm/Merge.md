@@ -111,8 +111,8 @@ block-beta
 >  - Output: int[]
 > ```
 > - Algorithm : Merge Sort
-> - Algorithm : Merge Sort
-> - Algorithm : Merge Sort
+> - Input: int[ ]
+> - Output: int[ ]
 >        
 > ``` 
 >
