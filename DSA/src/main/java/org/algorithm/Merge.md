@@ -3,7 +3,8 @@
 ## [1] Divide & Conquer
 
 ---
-Array To Divide
+> [!NOTE] Array To Divide
+> 
 ```mermaid
 block-beta
     columns 1
