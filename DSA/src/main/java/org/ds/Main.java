@@ -1,7 +1,6 @@
-package org.example;
+package org.ds;
 
-import java.util.LinkedList;
-import org.example.Linear.LinkedListEx;
+import org.ds.Linear.LinkedListEx;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

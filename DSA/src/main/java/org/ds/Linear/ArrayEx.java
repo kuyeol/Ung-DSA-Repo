@@ -1,4 +1,4 @@
-package org.example.Linear;
+package org.ds.Linear;
 
 public class ArrayEx {
 

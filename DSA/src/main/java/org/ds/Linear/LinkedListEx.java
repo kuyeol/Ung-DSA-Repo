@@ -1,4 +1,4 @@
-package org.example.Linear;
+package org.ds.Linear;
 
 import java.util.LinkedList;
 
@@ -7,8 +7,6 @@ public class LinkedListEx {
 
   public LinkedListEx() {
   }
-
-
 
   public LinkedList<String> tableIndex() {
     //first delete poll
