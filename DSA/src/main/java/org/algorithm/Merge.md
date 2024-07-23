@@ -106,7 +106,7 @@ block-beta
 > [!NOTE]
 > ```
 > - Algorithm : Merge Sort
-> - Input: int[]
+> - Input : int[]
 > - Output: int[] 
 > ``` 
 >
