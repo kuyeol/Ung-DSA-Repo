@@ -104,11 +104,7 @@ block-beta
 
  ### The main steps are:
 > [!NOTE]
-> 
-
->>
 > 1. Divide: 
->> [!TIP]
 >> Break the problem into smaller subproblems.
 > 2. Conquer: 
 >> Solve the subproblems recursively.
