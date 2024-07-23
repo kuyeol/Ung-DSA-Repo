@@ -104,11 +104,6 @@ block-beta
 
  ### The main steps are:
 > [!NOTE]
->  - Algorithm : Merge Sort
-> >
->   - Input: int[]
-> >  
->  - Output: int[]
 > ```
 > - Algorithm : Merge Sort
 > - Input: int[]
