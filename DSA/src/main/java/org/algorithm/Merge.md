@@ -104,12 +104,13 @@ block-beta
 
  ### The main steps are:
 > [!NOTE]
+> > [!NOTE]
 > 1. Divide: 
->> Break the problem into smaller subproblems.
+> > Break the problem into smaller subproblems.
 > 2. Conquer: 
->> Solve the subproblems recursively.
+> > Solve the subproblems recursively.
 > 3. Combine: 
->> Merge or combine the solutions of the subproblems to obtain the solution to the original problem.
+> > Merge or combine the solutions of the subproblems to obtain the solution to the original problem.
 
 <details>
 <summary>toKorean</summary>
