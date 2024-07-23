@@ -112,17 +112,13 @@ block-beta
 >
 > 1. Divide: 
 > > Break the problem into smaller subproblems.
-> >```
-> > public static divide(){
+> >```java
+> > public static divide()
+> >{
 > >
 > >
-> > }
+> >}
 > >```
-> > CODE:
-> > divide(){
-> fff
-> 
-> > }
 > 
 > 2. Conquer: 
 > > Solve the subproblems recursively.
