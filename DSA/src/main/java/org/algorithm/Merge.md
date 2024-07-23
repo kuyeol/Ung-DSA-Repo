@@ -111,8 +111,8 @@ block-beta
 >  - Output: int[]
 > ```
 > - Algorithm : Merge Sort
-> - Input: int[ ]
-> - Output: int[ ] 
+> - Input: int[]
+> - Output: int[] 
 > ``` 
 >
 > 1. Divide: 
