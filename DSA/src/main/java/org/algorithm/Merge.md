@@ -109,7 +109,12 @@ block-beta
 >   - Input: int[]
 > >  
 >  - Output: int[]
->> ``` ``` 
+> ```
+> - Algorithm : Merge Sort
+> - Algorithm : Merge Sort
+> - Algorithm : Merge Sort
+>        
+> ``` 
 >
 > 1. Divide: 
 > > Break the problem into smaller subproblems.
