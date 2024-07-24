@@ -113,10 +113,13 @@ block-beta
 > 1. Divide: 
 > > Break the problem into smaller subproblems.
 > >```java
-> > public static divide()
+> > public static divide(배열,배열_처음,배열_끝)
 > >{
-> >
-> >
+> >int 배열_중간 =배열_처음+(배열_끝-배열_처음) / 2;
+> >if(배열_처음>=배열_끝) { return;}
+> >divide(배열,배열_처음,배열_중간);
+> >divide(배열,배열_중간+1,배열_끝);
+
 > >}
 > >```
 > 
