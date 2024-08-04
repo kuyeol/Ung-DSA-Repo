@@ -7,7 +7,7 @@
 
 "STATIC":"static int f = x;",
 "INSTANCE": "public class Local \n {private int f = x;  \n}",
-"LOCAL":"public "
+"LOCAL":"public int method(){ int x = y+1; return x;} "
 
 }
 
@@ -18,27 +18,16 @@
 
 
 @endjson
+
+
+
+
 
 ```
-@startjson
-{
-
-"TYPE" : "VARIABLE",
-"LOCATION": {
-
-"STATIC":"static int f = x;",
-"INSTANCE": "public class Local \n {private int f = x;  \n}",
-"LOCAL":"public "
-
-}
-
-}
 
 
 
 
-
-@endjson
 
 ```plantuml
 @startjson
